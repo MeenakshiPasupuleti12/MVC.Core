@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.netc#\\CrMVDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|d:\\.netc#\\crmvdemo\\crmvdemo\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|solutionrelative:crmvdemo\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|d:\\.netc#\\crmvdemo\\crmvdemo\\controllers\\customercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|solutionrelative:crmvdemo\\controllers\\customercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|d:\\.netc#\\crmvdemo\\crmvdemo\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|solutionrelative:crmvdemo\\views\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|d:\\.netc#\\crmvdemo\\crmvdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F73874-91A3-4B37-A637-BB7B78CDA98A}|CrMVDemo\\CrMVDemo.csproj|solutionrelative:crmvdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "CrMVDemo\\Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "CrMVDemo\\Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T03:48:39.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Views\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "CrMVDemo\\Views\\Customer\\Register.cshtml",
+              "ToolTip": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Views\\Customer\\Register.cshtml",
+              "RelativeToolTip": "CrMVDemo\\Views\\Customer\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T03:33:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController .cs",
+              "DocumentMoniker": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Controllers\\CustomerController .cs",
+              "RelativeDocumentMoniker": "CrMVDemo\\Controllers\\CustomerController .cs",
+              "ToolTip": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Controllers\\CustomerController .cs",
+              "RelativeToolTip": "CrMVDemo\\Controllers\\CustomerController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:29:35.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CrMVDemo\\Models\\Customer.cs",
+              "ToolTip": "D:\\.netc#\\CrMVDemo\\CrMVDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "CrMVDemo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:26:08.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿@model Customer
+<!Doctype html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+</head>
+<body>
+    <h1>Customer Registration</h1>
+    <section>
+        @using (Html.BeginForm("Register", "Customer", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.LabelFor(m => m.Id, new { @class = "col-md-2 control-label" })
+                @Html.TextBoxFor(m => m.Id, new { @class = "col-md-2 form-control" })
+                @Html.ValidationMessageFor(m => m.Id)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.FirstName, new { @class = "col-md-2 control-label" })
+                @Html.TextBoxFor(m => m.FirstName, new { @class = "col-md-4 form-control" })
+                @Html.ValidationMessageFor(m => m.FirstName)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.LastName, new { @class = "col-md-2 control-label" })
+                @Html.TextBoxFor(m => m.LastName, new { @class = "col-md-4 form-control" })
+                @Html.ValidationMessageFor(m => m.LastName)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.EMail, new { @class = "col-md-2 control-label" })
+                @Html.TextBoxFor(m => m.EMail, new { @class = "col-md-4 form-control" })
+                @Html.ValidationMessageFor(m => m.EMail)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                @Html.TextBoxFor(m => m.Password, new { @class = "col-md-4 form-control" })
+                @Html.ValidationMessageFor(m => m.Password)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.IsActive)
+                @Html.CheckBoxFor(m => m.IsActive)
+                @Html.ValidationMessageFor(m => m.IsActive)
+            </div>
+            <div class="form-group">
+                <input type="submit"
+                       value="Register"
+                       class="btn btn-primary" />
+                <input type="reset"
+                       value="Clear"
+                       class="btn btn-primary" />
+            </div>
+
+        }
+    </section>
+</body>
+</html>
+
+
